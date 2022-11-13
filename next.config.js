@@ -14,6 +14,7 @@ module.exports = {
       '1.gravatar.com',
       '2.gravatar.com',
       'secure.gravatar.com',
+      'xn--12cgi9czcoda6jh0xnb.net',
     ],
   },
 }
